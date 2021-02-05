@@ -3,4 +3,4 @@
 ## Table of contents
 
 | Heading | link |
-| 1. |  |
+| 1. Class 1 | [link](class-01.md) |
