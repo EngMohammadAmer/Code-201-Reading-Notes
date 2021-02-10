@@ -20,7 +20,7 @@
 
 ## Summary
 
-* Color not only brings your s XX ite to life, but also helps convey the mood and evokes reactions.
+* Color not only brings your site to life, but also helps convey the mood and evokes reactions.
 * There are three ways to specify colors in CSS: RGB values, hex codes, and color names.
 * Color pickers can help you find the color you want.
 * It is important to ensure that there is enough contrast between any text and the background color (otherwise people will not be able to read your content).
@@ -36,7 +36,7 @@
 
 ## Summary
 
-* There are properties to control t XX he choice of font, size, weight, style, and spacing.
+* There are properties to control the choice of font, size, weight, style, and spacing.
 * There is a limited choice of fonts that you can assume most people will have installed.
 * If you want to use a wider range of typefaces there are several options, but you need to have the right license to use them.
 * You can control the space between lines of text, individual letters, and words. Text can also be aligned to the left, right, center, or justified. It can also be indented.
