@@ -12,3 +12,5 @@
 | 7. Class 7 | [Page link](class-07.md) |
 | 8. Class 8 | [Page link](class-08.md) |
 | 9. Class 9 | [Page link](class-09.md) |
+| 10. Class 10 | [Page link](class-10.md) |
+
