@@ -44,6 +44,7 @@ So what is HTML5 Storage? Simply put, it’s a way for web pages to store named 
 Which browsers? Well, the latest version of pretty much every browser supports HTML5 Storage… even Internet Explorer!
 
 ## HTML5 STORAGE SUPPORT
+## Table
 |IE|FIREFOX|SAFARI|CHROME|OPERA|IPHONE|ANDROID|
 |8.0+|3.5+|4.0+|4.0+|10.5+|2.0+|2.0+|
 
@@ -122,6 +123,7 @@ function handle_storage(e) {
 At this point, the variable e will be a StorageEvent object, which has the following useful properties.
 
 ## STORAGEEVENT OBJECT
+## Table
 |PROPERTY|	TYPE|	DESCRIPTION|
 |key	|string	|the named key that was added, removed, or modified|
 |oldValue|	any	|the previous value (now overwritten), or null if a new item was added|
@@ -208,6 +210,7 @@ As you can see, most of the action resides in the string you pass to the execute
 The Web SQL Database specification has been implemented by four browsers and platforms.
 
 ## WEB SQL DATABASE SUPPORT
+## Table
 |IE	|FIREFOX	|SAFARI	|CHROME	|OPERA	|IPHONE	|ANDROID|
 |·	|·	|4.0+	|4.0+	|10.5+	|3.0+	|2.0+|
 
