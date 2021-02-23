@@ -16,5 +16,5 @@
 | 11. Class 11 | [Page link](class-11.md) |
 | 12. Class 12 | [Page link](class-12.md) |
 | 13. Class 13 | [Page link](class-13.md) |
-| 14. Class 14 | [Page link](class-14.md) |
-
+| 14. Class 14a | [Page link](class-14a.md) |
+| 14. Class 14b | [Page link](class-14b.md) |
